@@ -3,7 +3,7 @@
 
 - 🔭 Programador FullStack ...
 - 🌱 Estudante de Java ...
-- <a href="https://www.npmjs.com/settings/gustavojx/packages">NPM</a>
+- <img href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAM1BMVEXUAAH////roKDRAAD89PTnkZHgZmb77u7ha2vpmZn9+fnroqLolpbusLDgZGXmjo7lh4dqAdunAAABEUlEQVR4nO3RgQ3CMAxFwUJDoU0p7D8tDIBQhCw5QfcW+D55miRJkiRJkiRJ0j8191kgcN1Kf21rHHGupx6rgcJzNuZjZ0JCwvQICQnzIyQkzI+QkDA/QkLC/AgJCfMjJCTMj5CQMD9CQsL8CAkJ8yMkJPy5+3Fra9kHFT5aD5uPQYWX5t2FkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQcAxh7VJY44TTXq5hlWfz7PF1tuxxwPcXAwubjQRKkiRJkiRJkiRJkkboBV2FXyIzYhbhAAAAAElFTkSuQmCC"/><a href="https://www.npmjs.com/settings/gustavojx/packages">NPM</a>
 
 <div align="center">
   <a href="https://github.com/XfireX157">
