@@ -3,6 +3,7 @@
 
 - 🔭 Programador FullStack ...
 - 🌱 Estudante de Java ...
+- <a href="https://www.npmjs.com/settings/gustavojx/packages">NPM</a>
 
 <div align="center">
   <a href="https://github.com/XfireX157">
