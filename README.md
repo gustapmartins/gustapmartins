@@ -34,7 +34,7 @@
    &nbsp
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
    &nbsp
-   <img alt="Figma" height="30" width="20" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+   <img alt="Figma" height="30" width="25" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
    &nbsp
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
    &nbsp
