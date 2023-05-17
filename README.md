@@ -1,3 +1,5 @@
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEDEED&height=120&section=header"/>
 
 ## Olá eu sou o Gustavo!!
@@ -60,3 +62,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEDEED&height=120&section=footer"/>
+
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
