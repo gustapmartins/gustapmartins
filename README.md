@@ -14,11 +14,30 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XfireX157&layout=compact&hide_border=true&title_color=AEDEED&text_color=AEDEED&bg_color=0d1117" />
 </div>
   
- <div style="display: inline_block"><br>
-  <img src="https://devicons.dev.br/icons?icon=Kotlin,React,Java,Spring,Maven,MySQL,NestJS,VSCode,NodeJS,MongoDB,Git,Docker,HTML,CSS,Sass,JavaScript&size=60&theme=dark&perline=14">
-</div>
  
-  <div> 
+
+<h3>Back-End</h3>
+<div style="display: inline_block"><br>
+  <img src="https://devicons.dev.br/icons?icon=Kotlin,Java,JavaScript,TypeScript,Spring,NestJS,Maven,MySQL,NodeJS,MongoDB,vscode&size=60&theme=dark&perline=15">
+</div>
+
+<h3>Front-End</h3>
+<div style="display: inline_block"><br>
+  <img src="https://devicons.dev.br/icons?icon=React,Nextjs,HTML,CSS,StyledComponents,Sass&size=60&theme=dark&perline=15">
+</div>
+
+<h3>Versionamento</h3>
+<div style="display: inline_block"><br>
+  <img src="https://devicons.dev.br/icons?icon=Git,Docker&size=60&theme=dark&perline=15">
+</div>
+
+<h3>IDES</h3>
+<div>
+  <img src="https://devicons.dev.br/icons?icon=VSCode,Eclipse,Idea&size=60&theme=dark&perline=15" >
+</div>
+
+<h3>Redes sociais</h3>
+<div> 
   <a href="https://www.instagram.com/gusttavo_draw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
   <a href = "mailto:gustavopereirafacal@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
   <a href="https://www.linkedin.com/in/gustavo-pereira-martins-64ba221a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank">
