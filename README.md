@@ -18,17 +18,12 @@
 
 <h3>Back-End</h3>
 <div style="display: inline_block"><br>
-  <img src="https://devicons.dev.br/icons?icon=Kotlin,Java,JavaScript,TypeScript,Spring,NestJS,Maven,MySQL,NodeJS,MongoDB,vscode&size=60&theme=dark&perline=15">
+  <img src="https://devicons.dev.br/icons?icon=Kotlin,Java,JavaScript,TypeScript,Spring,NestJS,Maven,MySQL,NodeJS,MongoDB,Git,Docker&size=60&theme=dark&perline=15">
 </div>
 
 <h3>Front-End</h3>
 <div style="display: inline_block"><br>
   <img src="https://devicons.dev.br/icons?icon=React,Nextjs,HTML,CSS,StyledComponents,Sass&size=60&theme=dark&perline=15">
-</div>
-
-<h3>Versionamento</h3>
-<div style="display: inline_block"><br>
-  <img src="https://devicons.dev.br/icons?icon=Git,Docker&size=60&theme=dark&perline=15">
 </div>
 
 <h3>IDES</h3>
