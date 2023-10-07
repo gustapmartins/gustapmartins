@@ -2,11 +2,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEDEED&height=120&section=header"/>
 
-## Olá eu sou o Gustavo!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82AAFF&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name's+Gustavo;Im+a+CShap+Developer;welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 
-- 🔭 Programador FullStack ...
-- 🌱 Estudante de Java ...
-- <a href="https://www.npmjs.com/settings/gustavojx/packages">NPM</a>
+<div align='center'>
+ <img heigh="160em" src="https://github-readme-streak-stats.herokuapp.com?user=onatao&theme=blue-navy&hide_border=true&hide_border=true">
+</div>
 
 <h3> Back - End </h3>
 <div style="display: inline_block" ><br>
