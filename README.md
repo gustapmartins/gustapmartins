@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEDEED&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82AAFF&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name's+Gustavo;Im+a+CShap+Developer;welcome+to+my+profile+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=539BF5&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name's+Gustavo;Im+a+CShap+Developer;welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 
 <div align='center'>
  <img heigh="160em" src="https://github-readme-streak-stats.herokuapp.com?user=gustapmartins&theme=github-dark-dimmed&hide_border=true&hide_border=true">
