@@ -8,20 +8,21 @@
  <img heigh="160em" src="https://github-readme-streak-stats.herokuapp.com?user=gustapmartins&theme=github-dark-dimmed&hide_border=true&hide_border=true">
 </div>
 
-<h3> Back - End </h3>
-<div style="display: inline_block" ><br>
-  <img src="https://devicons.dev.br/icons?icon=Kotlin,Java,JavaScript,TypeScript,Spring,NestJS,Maven,MySQL,NodeJS,MongoDB,Git,Docker&size=60&theme=dark&perline=15" >
-</div>
+### Back-End
 
-<h3> Front - End </h3>
-<div style = "display: inline_block" ><br>
-  <img src="https://devicons.dev.br/icons?icon=React,Nextjs,HTML,CSS,StyledComponents,Sass,Tailwind&size=60&theme=dark&perline=15">
-</div>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kotlin.svg" alt="Kotlin" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" alt="JavaScript" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" alt="TypeScript" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/spring.svg" alt="Spring" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nestjs.svg" alt="NestJS" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apachemaven.svg" alt="Maven" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" alt="MySQL" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg" alt="Node.js" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mongodb.svg" alt="MongoDB" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" alt="Git" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" alt="Docker" width="60" height="60">
 
-<h3> IDES </h3>
-<div>
-  <img src = "https://devicons.dev.br/icons?icon=VSCode,Eclipse,Idea&size=60&theme=dark&perline=15">
-</div>
+---
+
+### Front-End
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg" alt="Next.js" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" alt="HTML5" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" alt="CSS3" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/styledcomponents.svg" alt="Styled Components" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sass.svg" alt="Sass" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" alt="Tailwind CSS" width="60" height="60">
+
+---
+
+### IDEs
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" alt="VS Code" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/eclipseide.svg" alt="Eclipse" width="60" height="60" style="margin-right: 10px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/intellijidea.svg" alt="IntelliJ IDEA" width="60" height="60">
 
 <h3> Redes sociais </h3>
 <div>
